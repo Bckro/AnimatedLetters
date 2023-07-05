@@ -1,7 +1,5 @@
 # AnimatedLetters
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 A fun Scratch app with animated and interactive letters. Click to see them come alive with colors, dance, move, speak, and make sound effects. Enjoy the playful experience!
 
 ## Features
